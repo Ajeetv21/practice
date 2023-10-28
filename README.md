@@ -1,7 +1,9 @@
 
 go to cmd 
 
+follow this link---https://www.youtube.com/watch?v=ZpszSj3ziQk
 then write a terminal 
+install express generator 
 npx express folderName --view=ejs
 
 yaha pr kuch bhi folderName ka name rakhna chahe rakh sakte jaise  ----frontend ,react
