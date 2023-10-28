@@ -4,7 +4,7 @@ go to cmd
 then write a terminal 
 npx express folderName --view=ejs
 
-yaha pr sab kuch folderName ka name rakhna chahe rakh sakte jaise ..frontend ,react
+yaha pr kuch bhi folderName ka name rakhna chahe rakh sakte jaise  ----frontend ,react
 
 what is backend ?
 
